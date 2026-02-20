@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Ria Thomas</h1>
+<h1 align="center">Hey 👋 I'm Ria Matisa</h1>
 
 <p align="center">
   <em>Web Designer • Application Creator • AI & Automation Enthusiast</em>
