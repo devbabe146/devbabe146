@@ -60,15 +60,6 @@
 💡 Love turning complex problems into clean, user-friendly experiences
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 ## 🛠️ What I Bring to the Table
 
 | Expertise | Tools & Technologies |
